@@ -1,0 +1,5 @@
+2022-04-08 16:41:44,864 WARNING werkzeug MainThread :  * Debugger is active!
+2022-04-08 16:41:44,865 INFO werkzeug MainThread :  * Debugger PIN: 111-093-881
+2022-04-08 16:41:49,117 INFO Hello Thread-2 : Info level log
+2022-04-08 16:41:49,124 INFO werkzeug Thread-2 : 127.0.0.1 - - [08/Apr/2022 16:41:49] "GET /flask HTTP/1.1" 200 -
+2022-04-08 16:48:31,311 INFO werkzeug MainThread :  * Detected change in '/home/appventurez/projects/flask_project/Hello.py', reloading
